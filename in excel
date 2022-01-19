@@ -1,0 +1,2 @@
+=IF(C331=C330,"",SUMIF(C:C,C331,F:F))
+count the certain rows in F column with reference to C coulmn
