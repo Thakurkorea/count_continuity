@@ -1,2 +1,4 @@
+
+https://www.techonthenet.com/excel/formulas/sumif.php#:~:text=The%20SUMIF%20function%20is%20a,function%20(WS)%20in%20Excel.
 =IF(C331=C330,"",SUMIF(C:C,C331,F:F))
 count the certain rows in F column with reference to C coulmn
